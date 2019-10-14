@@ -7,3 +7,7 @@ Tilix Two City Weather Contrast
  - Run tilix-weather.sh on startup
  
  :sun_with_face: :sweat_drops: :snowflake: :foggy:
+
+* * *
+
+
