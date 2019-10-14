@@ -1,0 +1,1 @@
+tilix --geometry=128x73+5+5 --title="Local Weather" --window-style=borderless -x "/$HOME/Templates/tilix-weather_local.sh"
